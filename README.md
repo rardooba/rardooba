@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @rardooba
-- 👀 I’m interested in visualArt and codingProgram 
-- 🌱 I’m Front-end developer speciliase in React
-- 💞️ I’m looking to collaborate on website and mobile application
-- 🚀 I'm currently learning : #typescript #next #graphQl #stripe #3Dspline #tailwindCss #strapi #storybook
+- 👀 I’m interested in visual art and coding program 
+- 🌱 I’m React Front-end developer
+- 💞️ I’m looking to collaborate on desktop and mobile web application
+- 🚀 I'm currently learning : #typescript #graphQl #stripe #3Dspline #strapi #storybook #threeJs
 
-- 👨🏽‍💻 My hard skills are : #Html #Css #Sass #JavascriptES6 #React17 #Redux #ReduxToolkit #Jest #ReactHookForm #Rechart #FramerMotion #Git #Axios #Figma
+- 👨🏽‍💻 My hard skills are : #Html #Css #Sass #JavascriptES6 #React #next #Redux #ReduxToolkit #Jest #ReactHookForm #Rechart #FramerMotion #Git #Axios #Figma #tailwindCss
 
 <!---
 rardooba/rardooba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
