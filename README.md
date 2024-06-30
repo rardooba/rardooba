@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @maïssoum
+## 👋 Hi, I’m @maïssoum and welcome to my coding lab !
 - 👀 I’m interested in visual art and coding program 
 - 🌱 I’m Javascript developer
 - 💞️ I’m looking to collaborate on desktop web application
