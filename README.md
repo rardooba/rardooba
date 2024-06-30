@@ -42,9 +42,9 @@
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: https://twitter.com/rardooba
+[1]: https://www.threads.net/@maissoum.dev
 [2]: https://www.linkedin.com/in/maissoum-aboudrare/
-[3]: https://www.youtube.com/channel/UCdm9umIz8yYPBENwGHo6e3w
+[3]: https://www.youtube.com/@maissoum
 [4]: https://dribbble.com/art-to-code
 [5]: https://www.instagram.com/maissoum.dev
 [6]: https://www.behance.net/art-to-code
