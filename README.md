@@ -1,16 +1,19 @@
-## 👋 Hi, I’m @rardooba
+## 👋 Hi, I’m @maïssoum
 - 👀 I’m interested in visual art and coding program 
-- 🌱 I’m React Front-end developer
-- 💞️ I’m looking to collaborate on desktop and mobile web application
-- 🚀 I'm currently learning : #GraphQl #Stripe #3Dspline #Strapi #Storybook #ThreeJs #Docker
-- 🤺 🧠 I'm on the road to become a software engineer at [The Arena Project](https://www.thearenaproject.co/)
+- 🌱 I’m Javascript developer
+- 💞️ I’m looking to collaborate on desktop web application
+- 🚀 I'm currently learning : #ThreeJs #GSAP #LocomotiveJs
+- 🤺 🧠 I'm on the road to become a unicorn 🦄
 
 ## 👨🏽‍💻 My hard skills : 
 > #Html
-> #Css #Sass #StyledComponents #tailwindCss #ChakraUi
-> #Javascript #Typescript #LocomotiveJs
-> #React #Redux #Next #ReactTestingLibrary #ReactHookForm #Rechart #FramerMotion
+> #Css #Sass #StyledComponents #tailwindCss #ChakraUi #ShadCnUi
+> #Javascript #Typescript
+> #Next #Redux #Zustand #ReactTestingLibrary #jest #ReactHookForm #Rechart #FramerMotion
+> #Node.js #DrizzleORM #PostgreSQL #hono #Strapi #Wordpress
+> #Stripe
 > #Figma #AffinityDesigner #Photoshop
+> #Webflow
 
 <p align='center'>
 <!-- display the social media buttons in your README -->
@@ -28,7 +31,7 @@
 
 <!-- icons with padding -->
 
-[1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[1.1]: https://img.shields.io/badge/Threads-1DA1F2?style=for-the-badge&logo=threads&logoColor=white
 [2.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [3.1]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 [4.1]: https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white
@@ -43,7 +46,7 @@
 [2]: https://www.linkedin.com/in/maissoum-aboudrare/
 [3]: https://www.youtube.com/channel/UCdm9umIz8yYPBENwGHo6e3w
 [4]: https://dribbble.com/art-to-code
-[5]: https://www.instagram.com/rardooba/
+[5]: https://www.instagram.com/maissoum.dev
 [6]: https://www.behance.net/art-to-code
 [7]: https://dev.to/rardooba
 
